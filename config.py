@@ -1,8 +1,8 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
+    API_ID = "10658015"
+    API_HASH = "a0087bca748f86698c53d291c9e5b3af"
     BOT_TOKEN = "0:0-0"
     BOT_NAME = "Your_Bot_Name"
     BOT_USERNAME = "Your_Bot_Username"
@@ -36,8 +36,8 @@ class config:
     
     
     #Database
-    MONGODB_URI = "mongodb://localhost:27017" # Use Local Hosted Or Atlas !!
-    DATABASE_NAME = "Frieren"
+    MONGODB_URI = "mongodb+srv://newfilterbot:HS9bY2pAkrgIm7ig>@cluster0.t5tuy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" # Use Local Hosted Or Atlas !!
+    DATABASE_NAME = "Alisabot"
 
     #API
     ARQ_API_KEY = "RLWCED-WZASYO-AWOLTB-ITBWTP-ARQ"
