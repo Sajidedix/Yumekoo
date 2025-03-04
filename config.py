@@ -3,9 +3,9 @@ class config:
     #Client
     API_ID = "10658015"
     API_HASH = "a0087bca748f86698c53d291c9e5b3af"
-    BOT_TOKEN = "0:0-0"
-    BOT_NAME = "Your_Bot_Name"
-    BOT_USERNAME = "Your_Bot_Username"
+    BOT_TOKEN = "7814409028:AAEhVtNi8nNo8AtzAMS3nIx-llgCiM19V08"
+    BOT_NAME = "Alisa"
+    BOT_USERNAME = "AlisaUbot"
     BOT_ID = 0
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
@@ -19,13 +19,13 @@ class config:
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
-    SUPPORT_CHAT_USERNAME = "Domihoes"
-    SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    OWNER_ID = "7395291646"
+    OWNER_USERNAME = "iMSASUKE7i"
+    SUPPORT_CHAT = -1002279935644
+    SUPPORT_CHAT_USERNAME = "Kyalikhube"
+    SUPPORT_CHAT_LINK = "https://t.me/Kyalikhube"
+    LOG_CHANNEL = -1002288774106
+    ERROR_LOG_CHANNEL = -1002343684033
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
